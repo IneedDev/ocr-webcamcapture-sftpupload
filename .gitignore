@@ -13,12 +13,16 @@ target/
 .springBeans
 .sts4-cache
 *.jpeg
-
+*.png
+*.log
+*-wrapper.jar
+*-wrapper.properties
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
+*.jar
 
 ### NetBeans ###
 /nbproject/private/
